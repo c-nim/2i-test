@@ -19,6 +19,8 @@ My Assumptions -----
 - Array will be 10 in length
 - Original array is not to be changed
 */
+
+//two example test cases
 const array1 = [3, 3, 4, 4, 5, 5, 20, 20, 99, 34];
 const array2 = [76, 76, 8, 90, 76, 90, 6, 8, 55, 7];
 
